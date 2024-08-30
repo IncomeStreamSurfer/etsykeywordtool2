@@ -22,8 +22,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/etsy-keyword-finder.git
-   cd etsy-keyword-finder
+   git clone https://github.com/IncomeStreamSurfer/etsykeywordtool2
+   cd etsykeywordtool2
    ```
 
 2. Install dependencies:
