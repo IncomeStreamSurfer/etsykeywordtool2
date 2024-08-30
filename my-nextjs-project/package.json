@@ -1,0 +1,29 @@
+{
+  "name": "etsy-keyword-finder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.18.0",
+    "@radix-ui/react-select": "^2.0.0",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.67",
+    "@types/react-dom": "18.2.22",
+    "axios": "^1.6.8",
+    "next": "14.2.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "^2.12.3",
+    "typescript": "5.4.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
