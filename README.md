@@ -44,14 +44,6 @@ Before you begin, ensure you have met the following requirements:
    npx tailwindcss init -p
    ```
 
-5. Install Shadcn UI components:
-   ```
-   npx shadcn-ui@latest init
-   npx shadcn-ui@latest add button
-   npx shadcn-ui@latest add card
-   npx shadcn-ui@latest add select
-   ```
-
 ## Usage
 
 To run the development server:
@@ -87,12 +79,6 @@ Contributions to the Etsy Keyword Finder are welcome. Please follow these steps:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/etsy-keyword-finder](https://github.com/yourusername/etsy-keyword-finder)
 
 ## Acknowledgements
 
